@@ -11,3 +11,4 @@ Known issues
 •	Web transport using IPv6 does not work. Using ssh with putty over IPv6 is fine.
 Unless you define the environment variable MSYS_WATCH_FSTAB (the value must be a non-empty string), Git Bash will not see any drives that have been attached after bash was started. This is a workaround to help the speed of cmd scripts using parts of Git that are implemented as shell scripts.
 
++++
